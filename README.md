@@ -13,4 +13,4 @@ Production code stays private, so I rebuild the ideas in the open:
 
 `C++` `C#` `Lua` `Unreal Engine 5` `Unity` `FairyGUI` `xLua` `Gameplay AI` `Navigation` `UI Architecture` `Multiplayer/Replication`
 
-📍 Türkiye · open to relocation (Germany) & remote
+📍 Türkiye · open to relocation
