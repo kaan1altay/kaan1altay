@@ -8,9 +8,10 @@ Production code stays private, so I rebuild the ideas in the open:
 
 |  |  |
 |---|---|
-| **[naval-navigation-sample](https://github.com/kaan1altay/naval-navigation-sample)** | UE 5.5 · C++ — threat-aware pathfinding for wind-driven sailing ships: sea-grid cost field, predictive helmsman, event-driven replanning. Engine-free core, 57 automated tests. |
+| **[naval-navigation-sample](https://github.com/kaan1altay/naval-navigation-sample)** | UE 5.5 · C++ — threat-aware pathfinding for wind-driven sailing ships: sea-grid cost field, predictive helmsman, event-driven replanning. Engine-free core; 30 in-engine tests plus a 600-assertion standalone harness. |
 | **[ui-reddot-system](https://github.com/kaan1altay/ui-reddot-system)** | Unity · FairyGUI · xLua — a production-shaped red-dot notification system with hot-updatable Lua rules, page-scoped dot lifecycles, and token-based seen tracking. 107 automated tests. |
+| **[hot-update-ab-test](https://github.com/kaan1altay/hot-update-ab-test)** | Unity · C# · xLua · FairyGUI — a LiveOps A/B testing framework: deterministic layered bucketing, exposure logged at view time rather than at assignment, a sample-ratio-mismatch guardrail measured over the exposed population, kill switches, and variant behavior delivered as hot-updatable Lua. 396 tests. |
 
-`C++` `C#` `Lua` `Unreal Engine 5` `Unity` `FairyGUI` `xLua` `Gameplay AI` `Navigation` `UI Architecture` `Multiplayer/Replication`
+`C++` `C#` `Lua` `Unreal Engine 5` `Unity` `FairyGUI` `xLua` `Gameplay AI` `Navigation` `UI Architecture` `LiveOps & Experimentation` `Multiplayer/Replication`
 
-📍 Türkiye · open to relocation
+📍 Türkiye · open to relocation (Germany) & remote
