@@ -2,9 +2,9 @@
 
 **Gameplay Programmer — Unreal Engine 5 · Unity** · [Portfolio](https://kaan1altay.github.io) · [LinkedIn](https://www.linkedin.com/in/kaan1altay) · [kaan.altayofficial@gmail.com](mailto:kaan.altayofficial@gmail.com)
 
-Five years building games, three professionally. Sole gameplay programmer on **[Grog 'n Glory](https://store.steampowered.com/app/2835500/Grog_n_Glory/)** (UE5 co-op open-world pirate action-adventure, publicly exhibited demo) — ship physics, custom navigation, behavior-tree AI, crew-management systems, Chaos destruction, co-op replication. Currently client developer on **[BladeX: End of Darkness](https://playbladex.com/tr)**, a live-service mobile ARPG in closed beta — FairyGUI UI architecture, xLua hot-update infrastructure, client-server state sync.
+Five years building games, three professionally. Sole gameplay programmer on **[Grog 'n Glory](https://store.steampowered.com/app/2835500/Grog_n_Glory/)** (UE5 co-op open-world pirate action-adventure, publicly exhibited demo) — ship physics, custom navigation, behavior-tree AI, crew-management systems, Chaos destruction, co-op replication. Client developer on **[BladeX: End of Darkness](https://playbladex.com/tr)**, a live-service mobile ARPG in closed beta — FairyGUI UI architecture, xLua hot-update infrastructure, client-server state sync.
 
-Production code stays private, so I rebuild the ideas in the open:
+Three systems samples, written from scratch for these repositories:
 
 |  |  |
 |---|---|
@@ -13,5 +13,3 @@ Production code stays private, so I rebuild the ideas in the open:
 | **[hot-update-ab-test](https://github.com/kaan1altay/hot-update-ab-test)** | Unity · C# · xLua · FairyGUI — a LiveOps A/B testing framework: deterministic layered bucketing, exposure logged at view time rather than at assignment, a sample-ratio-mismatch guardrail measured over the exposed population, kill switches, and variant behavior delivered as hot-updatable Lua. 398 distinct tests (238 engine-free core tests that also run inside Unity, plus 118 Unity-only EditMode and 42 PlayMode). |
 
 `C++` `C#` `Lua` `Unreal Engine 5` `Unity` `FairyGUI` `xLua` `Gameplay AI` `Navigation` `UI Architecture` `LiveOps & Experimentation` `Multiplayer/Replication`
-
-📍 Türkiye · open to relocation (EU) & remote
