@@ -8,7 +8,7 @@ Three systems samples, written from scratch for these repositories:
 
 |  |  |
 |---|---|
-| **[naval-navigation-sample](https://github.com/kaan1altay/naval-navigation-sample)** | UE 5.5 · C++ — threat-aware pathfinding for wind-driven sailing ships: sea-grid cost field, predictive helmsman, event-driven replanning. Engine-free core; 30 in-engine tests plus a 600-assertion standalone harness. |
+| **[naval-navigation-sample](https://github.com/kaan1altay/naval-navigation-sample)** | UE 5.5 · C++ — threat-aware pathfinding for wind-driven sailing ships: sea-grid cost field, predictive helmsman, event-driven replanning. Engine-free core; 30 in-engine tests plus a +760-assertion standalone harness. |
 | **[ui-reddot-system](https://github.com/kaan1altay/ui-reddot-system)** | Unity · FairyGUI · xLua — a production-shaped red-dot notification system with hot-updatable Lua rules, page-scoped dot lifecycles, and token-based seen tracking. 107 automated tests. |
 | **[hot-update-ab-test](https://github.com/kaan1altay/hot-update-ab-test)** | Unity · C# · xLua · FairyGUI — a LiveOps A/B testing framework: deterministic layered bucketing, exposure logged at view time rather than at assignment, a sample-ratio-mismatch guardrail measured over the exposed population, kill switches, and variant behavior delivered as hot-updatable Lua. 398 distinct tests (238 engine-free core tests that also run inside Unity, plus 118 Unity-only EditMode and 42 PlayMode). |
 
